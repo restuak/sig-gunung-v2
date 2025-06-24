@@ -1,7 +1,5 @@
 <h1><b>Dummy Frontend Sistem Informasi Gunung di Indonesia
-Menggunakan Materialize</b>b></b>h1>
-
-
+Menggunakan Materialize</b></h1>
 
 
 *dalam pengembangan
